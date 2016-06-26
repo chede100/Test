@@ -2,4 +2,8 @@
 .classpath
 .gradle
 gradle
-
+.project
+build
+.settings
+.idea
+.git
