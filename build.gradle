@@ -9,18 +9,6 @@ repositories {
     mavenCentral()
 }
 
-jar {
-    baseName = 'gs-gradle'
-    version =  '0.1.0'
-}
-
-sourceCompatibility = 1.8
-targetCompatibility = 1.8
-
 dependencies {
     testCompile 'junit:junit:4.12'
-}
-
-task wrapper(type: Wrapper) {
-    gradleVersion = '2.3'
 }
