@@ -69,7 +69,7 @@ set CMD_LINE_ARGS=%$
 :execute
 @rem Setup the command line
 
-set CLASSPATH=%APP_HOME%\lib\Test.jar
+set CLASSPATH=%APP_HOME%\lib\Test.jar;%APP_HOME%\lib\virtual-kata-lib-1.0.1.jar;%APP_HOME%\lib\junit-4.12.jar;%APP_HOME%\lib\hamcrest-core-1.3.jar
 
 @rem Execute Test
 "%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %TEST_OPTS%  -classpath "%CLASSPATH%" Main %CMD_LINE_ARGS%
