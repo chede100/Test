@@ -1,0 +1,31 @@
+Programmierpraktikum - Projekt 7
+
+Gruppe:
+
+jobau105
+chdae101
+chede100
+JakeReeco
+ObiHanKenobi
+
+Informationen:
+
+1. Projekt ist nun mit Gradle erstellt.
+
+2. Das Projekt kooperiert nun mit Travis.
+
+3. Grundgerüst/konzept der Grafischen Oberfläche steht
+
+4. Grafische Oberfläche per FXML erstellt
+
+5. Erstellung, Kompilieren und Ausführen eines Programms aus TDDT heraus möglich
+
+6. Anzeige der Konsolenmeldungen in der Programmeigenen Konsole
+
+7. Implementierung eines ConfigReaders
+
+Ziele:
+
+1. Graphische Oberfläche per fxml-Datei erstellen
+
+2. Implementierung der Programm-Logik
